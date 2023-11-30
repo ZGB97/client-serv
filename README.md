@@ -16,7 +16,9 @@ The instructor designated one of the subnets as the administrative subnet. I was
 
 - <b>Powershell </b>
 - <b>Active Directory </b>
-- <b>Vcastle </b>
+- <b>VCASTLE</b> 
+- <b>Hyper-V Administrators</b>
+- <b>Network Configuration Operators</b>
 
 <h2>Screenshots:</h2>
 
